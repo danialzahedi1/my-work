@@ -1,0 +1,32 @@
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.csproj.AssemblyReference.cache
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.Form1.resources
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.gameScreen.resources
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.Properties.Resources.resources
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.csproj.GenerateResource.cache
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.csproj.CoreCompileInputs.cache
+C:\Users\Danial\Desktop\visual studio\MysteryN\bin\Debug\MysteryN.exe.config
+C:\Users\Danial\Desktop\visual studio\MysteryN\bin\Debug\MysteryN.exe
+C:\Users\Danial\Desktop\visual studio\MysteryN\bin\Debug\MysteryN.pdb
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.exe
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.pdb
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.HelpPage.resources
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.cheesepic.resources
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.AteCheese.resources
+C:\Users\Danial\Desktop\visual studio\MysteryN\obj\Debug\MysteryN.blu.resources
+C:\Users\Danial\Desktop\visual_studio\MysteryN\bin\Debug\MysteryN.exe.config
+C:\Users\Danial\Desktop\visual_studio\MysteryN\bin\Debug\MysteryN.exe
+C:\Users\Danial\Desktop\visual_studio\MysteryN\bin\Debug\MysteryN.pdb
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.csproj.AssemblyReference.cache
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.AteCheese.resources
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.blu.resources
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.cheesepic.resources
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.Form1.resources
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.gameScreen.resources
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.HelpPage.resources
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.Properties.Resources.resources
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.csproj.GenerateResource.cache
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.csproj.CoreCompileInputs.cache
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.exe
+C:\Users\Danial\Desktop\visual_studio\MysteryN\obj\Debug\MysteryN.pdb
